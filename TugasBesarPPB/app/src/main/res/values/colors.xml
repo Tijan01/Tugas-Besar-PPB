@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF5733</color>
+    <color name="purple_700">#FB8B73</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#FF99CCFF</color>
+    <color name="red">#FFFF99CC</color>
+    <color name="green">#FF88FFAA</color>
+    <color name="calorieBackground">#525FE1</color>
+    <color name="calorieForeground">#747AFF </color>
+    <color name="nutritionBackground">#40220B</color>
+    <color name="nutritionForeground">#D57909</color>
+    <color name="bus" tools:ignore="MissingDefaultResource">#FFC300</color>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ingredient_paprika_red_name">Red Bell Pepper</string>
+    <string name="ingredient_paprika_yellow_name">Yellow Bell Pepper</string>
+    <string name="ingredient_onion_name">Onion</string>
+    <string name="ingredient_carrot_name">Carrot</string>
+    <string name="app_name">Food Tracker</string>
+    <string name="fragment_day_overview">Daily Overview</string>
+    <string name="fragment_ingredient_list">Select</string>
+    <string name="fragment_meal_content">Ingredient List</string>
+    <string name="fragment_select_ingredient_amount">Select Quantity</string>
+    <string name="ingredient_paprika_green_name">Green Bell Pepper</string>
+    <string name="ingredient_eisberg_name">Iceberg Lettuce</string>
+    <string name="ingredient_romana_name">Romaine Lettuce</string>
+    <string name="ingredient_cucumber_name">Cucumber</string>
+    <string name="ingredient_emmentaler_name">Emmental Cheese</string>
+    <string name="ingredient_cream_name">Cream</string>
+    <string name="button_previous_label">←</string>
+    <string name="button_next_label">→</string>
+</resources>

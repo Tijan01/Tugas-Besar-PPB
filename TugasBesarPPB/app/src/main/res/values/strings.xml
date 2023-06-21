@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyNet</string>
+    <string name="fragment_day_overview">Day Overview Calories</string>
+    <string name="fragment_ingredient_list">Select Item</string>
+    <string name="fragment_meal_content">Ingredient list</string>
+    <string name="fragment_month_overview" translatable="false">Month Overview</string>
+    <string name="fragment_select_ingredient_amount">Select mount</string>
+    <string name="button_previous_label">
+
+    </string>
+    <string name="button_next_label">→</string>
+</resources>

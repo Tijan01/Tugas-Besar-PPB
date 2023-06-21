@@ -1,0 +1,94 @@
+{
+	"groups": [
+		{
+			"ident": "ingredients",
+			"parent": "",
+			"resourceId": "Ingredients"
+		},
+		{
+			"ident": "vegetables",
+			"parent": "ingredients",
+			"resourceId": "Vegetables"
+		},
+		{
+			"ident": "vegetables_paprika",
+			"parent": "vegetables",
+			"resourceId": "Bell Peppe"
+		},
+		{
+			"ident": "vegetables_salad",
+			"parent": "vegetables",
+			"resourceId": "Salad"
+		},
+		{
+			"ident": "dairy",
+			"parent": "ingredients",
+			"resourceId": "Dairy Products"
+		},
+		{
+			"ident": "meat",
+			"parent": "ingredients",
+			"resourceId": "Meat"
+		},
+		{
+			"ident": "drinks",
+			"parent": "ingredients",
+			"resourceId": "Beverages"
+		},
+		{
+			"ident": "drinks_alcoholic",
+			"parent": "drinks",
+			"resourceId": "Alcohol"
+		},
+		{
+			"ident": "drinks_alcoholic_beer",
+			"parent": "drinks_alcoholic",
+			"resourceId": "Beer"
+		},
+		{
+			"ident": "cereal",
+			"parent": "ingredients",
+			"resourceId": "Grains"
+		},
+		{
+			"ident": "fish",
+			"parent": "ingredients",
+			"resourceId": "Fish"
+		},
+		{
+			"ident": "fruit",
+			"parent": "ingredients",
+			"resourceId": "Fruits"
+		},
+		{
+			"ident": "nuts",
+			"parent": "ingredients",
+			"resourceId": "Nuts"
+		},
+		{
+			"ident": "fryingfat",
+			"parent": "ingredients",
+			"resourceId": "Frying Fat and Oil"
+		},
+		{
+			"ident": "mushrooms",
+			"parent": "ingredients",
+			"resourceId": "Mushrooms"
+		},
+		{
+			"ident": "misc",
+			"parent": "ingredients",
+			"resourceId": "Miscellaneous"
+		},
+		{
+			"ident": "sausage",
+			"parent": "meat",
+			"resourceId": "Sausage"
+		},
+		{
+			"ident": "cheese",
+			"parent": "dairy",
+			"resourceId": "Cheese"
+		}
+	]
+}
