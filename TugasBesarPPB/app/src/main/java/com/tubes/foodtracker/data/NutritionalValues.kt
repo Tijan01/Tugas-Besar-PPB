@@ -19,6 +19,6 @@ data class NutritionalValues (val Calories : Float,
             Fat * b)
     companion object{
         val empty get() = NutritionalValues(0f,0f,0f,0f)
-        val recommended get() = NutritionalValues(2000f, 260f, 50f, 70f)
+        val recommended get() = NutritionalValues(2000f, 325f, 75f, 44f)
     }
 }
